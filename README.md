@@ -43,4 +43,4 @@ My passion? Videogames and animation
 ---
 ## Now Listening
 
-&nbsp; <br> [![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
+[![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
