@@ -37,6 +37,8 @@ My passion? Videogames and animation
 ---
 ## Last Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Installation of Java 3D for OOP with Tecla](https://dev.to/dannfn/installation-of-java-3d-for-oop-with-tecla-22a4)
+- [Installation of Java for OPP with Tecla](https://dev.to/dannfn/installation-of-java-for-opp-with-tecla-3260)
 <!-- BLOG-POST-LIST:END -->
 
 ---
