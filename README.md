@@ -44,6 +44,5 @@ My Hobbie? Videogames and animation
 
 ---
 ## Now Listening
-<div align="center">
-  [![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
-</div>
+
+[![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
