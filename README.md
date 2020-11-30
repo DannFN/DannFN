@@ -15,19 +15,18 @@ My passion? Videogames and animation
 ---
 ## What do I do?
 
-<p>
+<p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-Fluent-007396?logo=java&logoColor=white&style=for-the-badge">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-Fluent-4479A1?logo=MySQL&logoColor=white&style=for-the-badge">
   <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2b%2b-Begginer-00599C?logo=C%2b%2b&logoColor=white&style=for-the-badge">
   <img alt="Javascript" src="https://img.shields.io/badge/Javascript-Intermediate-F7DF1E?logo=Javascript&logoColor=white&style=for-the-badge">
   <img alt="HTML" src="https://img.shields.io/badge/HTML%20-Proficient-E34F26?logo=HTML5&logoColor=white&style=for-the-badge">
   <img alt="CSS" src="https://img.shields.io/badge/CSS%20-Advanced-1572B6?logo=CSS3&logoColor=white&style=for-the-badge">
-
 </p>
 
 ## What Tools do I use?
 
-<p>
+<p align="center">
   <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine%20-Learning-313131?logo=Unreal%20Engine&logoColor=white&style=for-the-badge">
   <img alt="Git" src="https://img.shields.io/badge/Git%20-Proficient-F05032?logo=Git&logoColor=white&style=for-the-badge">
   <img alt="Krita" src="https://img.shields.io/badge/Krita%20-Basics-3BABFF?logo=Krita&logoColor=white&style=for-the-badge">
@@ -44,4 +43,4 @@ My passion? Videogames and animation
 ---
 ## Now Listening
 
-[![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
+&nbsp; <br> [![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
