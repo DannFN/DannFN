@@ -5,12 +5,14 @@ Banner
 ## Hello There [General Kenobi]...
 
 Welcome here to my github profile, my name is Daniel and I'm a 20 years old student. 
+<br>
 My career? Artificial Inteligence Engineering
+<br>
 My goal? became a great frontend, UX/UI designer and developer. 
-
+<br><br>
 I know, nothing to do one thing with the other xD
-
-My passion? Videogames and animation 
+<br><br>
+My Hobbie? Videogames and animation 
 
 ---
 ## What do I do?
@@ -42,5 +44,6 @@ My passion? Videogames and animation
 
 ---
 ## Now Listening
-
-[![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
+<div align="center">
+  [![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
+</div>
