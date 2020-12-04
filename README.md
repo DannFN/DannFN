@@ -4,7 +4,7 @@ Banner
 
 ## Hello There [General Kenobi]...
 
-<img align="right" alt="Me riding a rubber duck Crash" width="500px" src="src/Banner final.png">
+<img align="right" alt="Me riding a rubber duck Crash" width="550px" src="src/Banner final.png">
 
 Welcome here to my github profile, my name is Daniel and I'm a 20 years old student. 
 <br>
