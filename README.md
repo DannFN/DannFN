@@ -7,14 +7,14 @@ Banner
 <img align="right" alt="Me riding a rubber duck Crash" width="550px" src="src/Banner final.png">
 
 Welcome here to my github profile, my name is Daniel and I'm a 20 years old student. 
-<br>
-My career? Artificial Inteligence Engineering
-<br>
-My goal? became a great frontend, UX/UI designer and developer. 
+<br><br>
+**My career?** Artificial Inteligence Engineering
+<br><br>
+**My goal?** became a great frontend, UX/UI designer and developer. 
 <br><br>
 I know, nothing to do one thing with the other xD
 <br><br>
-My Hobbie? Videogames and animation 
+**My Hobbies?** Videogames and animation 
 
 ---
 ## What do I do?
@@ -38,11 +38,11 @@ My Hobbie? Videogames and animation
 </p>
 
 ---
-## Now Listening
+## Now Listening.
 [![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
 
 ---
-## Last Blog posts
+## Latest Dev.to [@DannFN](https://dev.to/dannfn) posts.
 <!-- BLOG-POST-LIST:START -->
 - [Installation of Java 3D for OOP with Tecla](https://dev.to/dannfn/installation-of-java-3d-for-oop-with-tecla-22a4)
 - [Installation of Java for OPP with Tecla](https://dev.to/dannfn/installation-of-java-for-opp-with-tecla-3260)
