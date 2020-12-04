@@ -4,6 +4,8 @@ Banner
 
 ## Hello There [General Kenobi]...
 
+<img alt="Me riding a rubber duck Crash" height="100px" src="src/Banner final.png">
+
 Welcome here to my github profile, my name is Daniel and I'm a 20 years old student. 
 <br>
 My career? Artificial Inteligence Engineering
