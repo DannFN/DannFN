@@ -4,7 +4,7 @@ Banner
 
 ## Hello There [General Kenobi]...
 
-<img alt="Me riding a rubber duck Crash" height="100px" src="src/Banner final.png">
+<img align="right" alt="Me riding a rubber duck Crash" width="500px" src="src/Banner final.png">
 
 Welcome here to my github profile, my name is Daniel and I'm a 20 years old student. 
 <br>
@@ -38,13 +38,12 @@ My Hobbie? Videogames and animation
 </p>
 
 ---
+## Now Listening
+[![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
+
+---
 ## Last Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Installation of Java 3D for OOP with Tecla](https://dev.to/dannfn/installation-of-java-3d-for-oop-with-tecla-22a4)
 - [Installation of Java for OPP with Tecla](https://dev.to/dannfn/installation-of-java-for-opp-with-tecla-3260)
 <!-- BLOG-POST-LIST:END -->
-
----
-## Now Listening
-
-[![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
