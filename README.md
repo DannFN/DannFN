@@ -1,10 +1,8 @@
-<!--
-Banner
--->
+<img src="src/Banner.png">
 
 ## Hello There [General Kenobi]...
 
-<img align="right" alt="Me riding a rubber duck Crash" width="450px" src="src/Banner final.png">
+<img align="right" alt="Me riding a rubber duck Crash" width="450px" src="src/descripcion.png">
 
 Welcome here to my github profile, my name is Daniel and I'm a 20 years old student. 
 <br><br>
