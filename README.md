@@ -36,10 +36,6 @@ I know, nothing to do one thing with the other xD
 </p>
 
 ---
-## Now Listening.
-[![Spotify](https://nowplaying.dannfn.vercel.app/api/spotify)](https://open.spotify.com/user/dann_f_loco)
-
----
 ## Latest Dev.to [@DannFN](https://dev.to/dannfn) posts.
 <!-- BLOG-POST-LIST:START -->
 - [Installation of Apache Tomcat for OOP with Tecla](https://dev.to/dannfn/installation-of-apache-tomcat-for-oop-with-tecla-2m09)
