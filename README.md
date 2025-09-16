@@ -38,7 +38,7 @@ I know, nothing to do one thing with the other xD
 ---
 ## Latest Dev.to [@DannFN](https://dev.to/dannfn) posts.
 <!-- BLOG-POST-LIST:START -->
-- [Installation of Apache Tomcat for OOP with Tecla](https://forem.com/dannfn/installation-of-apache-tomcat-for-oop-with-tecla-2m09)
-- [Installation of Java 3D for OOP with Tecla](https://forem.com/dannfn/installation-of-java-3d-for-oop-with-tecla-22a4)
-- [Installation of Java for OOP with Tecla](https://forem.com/dannfn/installation-of-java-for-opp-with-tecla-3260)
+- [Installation of Apache Tomcat for OOP with Tecla](https://dev.to/dannfn/installation-of-apache-tomcat-for-oop-with-tecla-2m09)
+- [Installation of Java 3D for OOP with Tecla](https://dev.to/dannfn/installation-of-java-3d-for-oop-with-tecla-22a4)
+- [Installation of Java for OOP with Tecla](https://dev.to/dannfn/installation-of-java-for-opp-with-tecla-3260)
 <!-- BLOG-POST-LIST:END -->
